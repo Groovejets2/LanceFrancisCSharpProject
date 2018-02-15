@@ -1,0 +1,27 @@
+C:\Users\jhughes\Desktop\SKYAKL LFRANCIS CSHARP PROJECT - 06Apr2017\Source\BankingOperationsApp\obj\Debug\BankingOperationsApp.csprojResolveAssemblyReference.cache
+C:\Users\jhughes\Desktop\SKYAKL LFRANCIS CSHARP PROJECT - 06Apr2017\Source\BankingOperationsApp\obj\Debug\BankingOperationsApp.Properties.Resources.resources
+C:\Users\jhughes\Desktop\SKYAKL LFRANCIS CSHARP PROJECT - 06Apr2017\Source\BankingOperationsApp\obj\Debug\BankingOperationsApp.csproj.GenerateResource.Cache
+C:\Users\jhughes\Desktop\SKYAKL LFRANCIS CSHARP PROJECT - 06Apr2017\Source\BankingOperationsApp\bin\Debug\BankingOperationsApp.exe.config
+C:\Users\jhughes\Desktop\SKYAKL LFRANCIS CSHARP PROJECT - 06Apr2017\Source\BankingOperationsApp\bin\Debug\BankingOperationsApp.exe
+C:\Users\jhughes\Desktop\SKYAKL LFRANCIS CSHARP PROJECT - 06Apr2017\Source\BankingOperationsApp\bin\Debug\BankingOperationsApp.pdb
+C:\Users\jhughes\Desktop\SKYAKL LFRANCIS CSHARP PROJECT - 06Apr2017\Source\BankingOperationsApp\obj\Debug\BankingOperationsApp.exe
+C:\Users\jhughes\Desktop\SKYAKL LFRANCIS CSHARP PROJECT - 06Apr2017\Source\BankingOperationsApp\obj\Debug\BankingOperationsApp.pdb
+C:\Users\jhughes\Desktop\SKYAKL LFRANCIS CSHARP PROJECT - 06Apr2017\Source\BankingOperationsApp\obj\Debug\BankingOperationsApp.fMain.resources
+C:\Users\groov_000\Desktop\SKYAKL LFRANCIS CSHARP PROJECT - 06Apr2017\Source\BankingOperationsApp\bin\Debug\BankingOperationsApp.exe.config
+C:\Users\groov_000\Desktop\SKYAKL LFRANCIS CSHARP PROJECT - 06Apr2017\Source\BankingOperationsApp\bin\Debug\BankingOperationsApp.exe
+C:\Users\groov_000\Desktop\SKYAKL LFRANCIS CSHARP PROJECT - 06Apr2017\Source\BankingOperationsApp\bin\Debug\BankingOperationsApp.pdb
+C:\Users\groov_000\Desktop\SKYAKL LFRANCIS CSHARP PROJECT - 06Apr2017\Source\BankingOperationsApp\obj\Debug\BankingOperationsApp.fMain.resources
+C:\Users\groov_000\Desktop\SKYAKL LFRANCIS CSHARP PROJECT - 06Apr2017\Source\BankingOperationsApp\obj\Debug\BankingOperationsApp.Properties.Resources.resources
+C:\Users\groov_000\Desktop\SKYAKL LFRANCIS CSHARP PROJECT - 06Apr2017\Source\BankingOperationsApp\obj\Debug\BankingOperationsApp.csproj.GenerateResource.Cache
+C:\Users\groov_000\Desktop\SKYAKL LFRANCIS CSHARP PROJECT - 06Apr2017\Source\BankingOperationsApp\obj\Debug\BankingOperationsApp.exe
+C:\Users\groov_000\Desktop\SKYAKL LFRANCIS CSHARP PROJECT - 06Apr2017\Source\BankingOperationsApp\obj\Debug\BankingOperationsApp.pdb
+C:\Users\groov_000\Desktop\SKYAKL LFRANCIS CSHARP PROJECT - 06Apr2017\Source\BankingOperationsApp\obj\Debug\BankingOperationsApp.csprojResolveAssemblyReference.cache
+C:\Dev\JHUGHES - CSHARP.NET2012 - LFRANCIS PROJECT - 09Apr2017\Source\BankingOperationsApp\bin\Debug\BankingOperationsApp.exe.config
+C:\Dev\JHUGHES - CSHARP.NET2012 - LFRANCIS PROJECT - 09Apr2017\Source\BankingOperationsApp\bin\Debug\BankingOperationsApp.exe
+C:\Dev\JHUGHES - CSHARP.NET2012 - LFRANCIS PROJECT - 09Apr2017\Source\BankingOperationsApp\bin\Debug\BankingOperationsApp.pdb
+C:\Dev\JHUGHES - CSHARP.NET2012 - LFRANCIS PROJECT - 09Apr2017\Source\BankingOperationsApp\obj\Debug\BankingOperationsApp.csprojResolveAssemblyReference.cache
+C:\Dev\JHUGHES - CSHARP.NET2012 - LFRANCIS PROJECT - 09Apr2017\Source\BankingOperationsApp\obj\Debug\BankingOperationsApp.fMain.resources
+C:\Dev\JHUGHES - CSHARP.NET2012 - LFRANCIS PROJECT - 09Apr2017\Source\BankingOperationsApp\obj\Debug\BankingOperationsApp.Properties.Resources.resources
+C:\Dev\JHUGHES - CSHARP.NET2012 - LFRANCIS PROJECT - 09Apr2017\Source\BankingOperationsApp\obj\Debug\BankingOperationsApp.csproj.GenerateResource.Cache
+C:\Dev\JHUGHES - CSHARP.NET2012 - LFRANCIS PROJECT - 09Apr2017\Source\BankingOperationsApp\obj\Debug\BankingOperationsApp.exe
+C:\Dev\JHUGHES - CSHARP.NET2012 - LFRANCIS PROJECT - 09Apr2017\Source\BankingOperationsApp\obj\Debug\BankingOperationsApp.pdb
